@@ -1,21 +1,18 @@
-Smart Notes
+# smart_notes
 Smart Notes is a Flutter-based note-taking application with advanced features like Image-to-Text and Voice-to-Text recognition. It allows users to seamlessly capture and manage their notes through images or voice, making note-taking faster and more efficient.
 
-Features
+# features
 Image-to-Text Recognition: Take a picture of your handwritten or printed text and convert it to editable text.
 Voice-to-Text Recognition: Record your voice and automatically convert it into text.
 Simple and intuitive UI: A user-friendly design to easily organize and view your notes.
 Save and Edit Notes: Add titles, descriptions, and timestamps for each note.
-Video Demo
+
+# video demo
 You can watch a demo video showcasing the app's functionality here:
-
-
 
 https://github.com/user-attachments/assets/919c5a23-4c4e-4af0-8be6-fa2b8e241848
 
-
-
-Getting Started
+## Getting Started
 To get started with this project, follow these steps:
 
 Clone this repository:
